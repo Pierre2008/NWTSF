@@ -1,0 +1,8 @@
+#index:
+#    path: /
+#    controller: App\Controller\DefaultController::index
+
+
+route_turtle:
+    path: /turtle/crier
+    controller: App\Controller\TurtleController::crier
