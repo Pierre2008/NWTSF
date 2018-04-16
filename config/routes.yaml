@@ -4,5 +4,5 @@
 
 
 route_turtle:
-    path: /
+    path: /turtle/crier
     controller: App\Controller\TurtleController::crier
